@@ -13,6 +13,8 @@ Para instalação execute o comando
 
 ## O ambiente
 
+![gamepy](https://github.com/JeanRezende/A-Star-Pygame/assets/43578359/dbaa992e-b679-4fda-9baf-c7f588dcd9fa)
+
 O ambiente do jogo é formado por um mapa representado numa matriz nxn tal que cada posição indica a altura (relevo) daquela posição no mapa (os quadrados verdes) ou se é um lago (quadrado azul). Além disso, no mapa existem 2 tipos de recursos que podem ser coletados, são eles madeira (círculo marrom) e ouro (círculo amarelo).
 
 Cada jogador terá sua base posicionada no mapa, e, todo recurso coletado será armazenado no mesmo. Sendo assim, é necessário o jogador buscar recursos no mapa e devolvê-los ao ponto inicial. Cada jogador poderá carregar um único recurso.
